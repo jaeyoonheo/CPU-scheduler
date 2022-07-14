@@ -17,16 +17,16 @@ This code is written on Windows 10, using the Visual Studio 2017 compiler.
 #### Creteria
 
 + CPU utilization 
-  **(compute time) / (total time)**
+**(compute time) / (total time)**
 
 + Throughput 
-  **(count of process) / (unit time)**
+**(count of process) / (unit time)**
 
 + Turnaround Time 
-  **Time from request to completion of process execution**
+**Time from request to completion of process execution**
 
 + Waiting Time 
-  **Sum of time a process has waited in the ready queue**
+**Sum of time a process has waited in the ready queue**
 
 + Response Time 
 
