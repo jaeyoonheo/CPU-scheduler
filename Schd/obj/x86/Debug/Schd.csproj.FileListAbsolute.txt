@@ -1,0 +1,25 @@
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.pdb
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.pdb
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\bin\Debug\Schd.exe
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\bin\Debug\Schd.pdb
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.csprojAssemblyReference.cache
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.Scheduling.resources
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.cache
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.csproj.CoreCompileInputs.cache
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.exe
+C:\Users\JaeYoon\Desktop\학교\운영체제설계\1. CPU Scheduler\Schd\obj\x86\Debug\Schd.pdb
